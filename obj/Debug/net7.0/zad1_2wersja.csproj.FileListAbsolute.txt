@@ -1,0 +1,45 @@
+C:\Users\Maciek\Desktop\lab5_zad1\zad1_2wersja\bin\Debug\net7.0\zad1_2wersja.exe
+C:\Users\Maciek\Desktop\lab5_zad1\zad1_2wersja\bin\Debug\net7.0\zad1_2wersja.deps.json
+C:\Users\Maciek\Desktop\lab5_zad1\zad1_2wersja\bin\Debug\net7.0\zad1_2wersja.runtimeconfig.json
+C:\Users\Maciek\Desktop\lab5_zad1\zad1_2wersja\bin\Debug\net7.0\zad1_2wersja.dll
+C:\Users\Maciek\Desktop\lab5_zad1\zad1_2wersja\bin\Debug\net7.0\zad1_2wersja.pdb
+C:\Users\Maciek\Desktop\lab5_zad1\zad1_2wersja\obj\Debug\net7.0\zad1_2wersja.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\lab5_zad1\zad1_2wersja\obj\Debug\net7.0\zad1_2wersja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciek\Desktop\lab5_zad1\zad1_2wersja\obj\Debug\net7.0\zad1_2wersja.AssemblyInfoInputs.cache
+C:\Users\Maciek\Desktop\lab5_zad1\zad1_2wersja\obj\Debug\net7.0\zad1_2wersja.AssemblyInfo.cs
+C:\Users\Maciek\Desktop\lab5_zad1\zad1_2wersja\obj\Debug\net7.0\zad1_2wersja.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\lab5_zad1\zad1_2wersja\obj\Debug\net7.0\zad1_2wersja.dll
+C:\Users\Maciek\Desktop\lab5_zad1\zad1_2wersja\obj\Debug\net7.0\refint\zad1_2wersja.dll
+C:\Users\Maciek\Desktop\lab5_zad1\zad1_2wersja\obj\Debug\net7.0\zad1_2wersja.pdb
+C:\Users\Maciek\Desktop\lab5_zad1\zad1_2wersja\obj\Debug\net7.0\zad1_2wersja.genruntimeconfig.cache
+C:\Users\Maciek\Desktop\lab5_zad1\zad1_2wersja\obj\Debug\net7.0\ref\zad1_2wersja.dll
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\zad1_2wersja\bin\Debug\net7.0\zad1_2wersja.exe
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\zad1_2wersja\bin\Debug\net7.0\zad1_2wersja.deps.json
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\zad1_2wersja\bin\Debug\net7.0\zad1_2wersja.runtimeconfig.json
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\zad1_2wersja\bin\Debug\net7.0\zad1_2wersja.dll
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\zad1_2wersja\bin\Debug\net7.0\zad1_2wersja.pdb
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\zad1_2wersja\obj\Debug\net7.0\zad1_2wersja.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\zad1_2wersja\obj\Debug\net7.0\zad1_2wersja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\zad1_2wersja\obj\Debug\net7.0\zad1_2wersja.AssemblyInfoInputs.cache
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\zad1_2wersja\obj\Debug\net7.0\zad1_2wersja.AssemblyInfo.cs
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\zad1_2wersja\obj\Debug\net7.0\zad1_2wersja.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\zad1_2wersja\obj\Debug\net7.0\zad1_2wersja.dll
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\zad1_2wersja\obj\Debug\net7.0\refint\zad1_2wersja.dll
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\zad1_2wersja\obj\Debug\net7.0\zad1_2wersja.pdb
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\zad1_2wersja\obj\Debug\net7.0\zad1_2wersja.genruntimeconfig.cache
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\zad1_2wersja\obj\Debug\net7.0\ref\zad1_2wersja.dll
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\bin\Debug\net7.0\zad1_2wersja.exe
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\bin\Debug\net7.0\zad1_2wersja.deps.json
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\bin\Debug\net7.0\zad1_2wersja.runtimeconfig.json
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\bin\Debug\net7.0\zad1_2wersja.dll
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\bin\Debug\net7.0\zad1_2wersja.pdb
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\obj\Debug\net7.0\zad1_2wersja.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\obj\Debug\net7.0\zad1_2wersja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\obj\Debug\net7.0\zad1_2wersja.AssemblyInfoInputs.cache
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\obj\Debug\net7.0\zad1_2wersja.AssemblyInfo.cs
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\obj\Debug\net7.0\zad1_2wersja.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\obj\Debug\net7.0\zad1_2wersja.dll
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\obj\Debug\net7.0\refint\zad1_2wersja.dll
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\obj\Debug\net7.0\zad1_2wersja.pdb
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\obj\Debug\net7.0\zad1_2wersja.genruntimeconfig.cache
+C:\Users\Maciek\Desktop\overloading the matrix indexing operator cs\obj\Debug\net7.0\ref\zad1_2wersja.dll

@@ -1,0 +1,15 @@
+C:\projects\C#\overloading the matrix indexing operator cs\bin\Debug\net7.0\matrix.exe
+C:\projects\C#\overloading the matrix indexing operator cs\bin\Debug\net7.0\matrix.deps.json
+C:\projects\C#\overloading the matrix indexing operator cs\bin\Debug\net7.0\matrix.runtimeconfig.json
+C:\projects\C#\overloading the matrix indexing operator cs\bin\Debug\net7.0\matrix.dll
+C:\projects\C#\overloading the matrix indexing operator cs\bin\Debug\net7.0\matrix.pdb
+C:\projects\C#\overloading the matrix indexing operator cs\obj\Debug\net7.0\matrix.csproj.AssemblyReference.cache
+C:\projects\C#\overloading the matrix indexing operator cs\obj\Debug\net7.0\matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\C#\overloading the matrix indexing operator cs\obj\Debug\net7.0\matrix.AssemblyInfoInputs.cache
+C:\projects\C#\overloading the matrix indexing operator cs\obj\Debug\net7.0\matrix.AssemblyInfo.cs
+C:\projects\C#\overloading the matrix indexing operator cs\obj\Debug\net7.0\matrix.csproj.CoreCompileInputs.cache
+C:\projects\C#\overloading the matrix indexing operator cs\obj\Debug\net7.0\matrix.dll
+C:\projects\C#\overloading the matrix indexing operator cs\obj\Debug\net7.0\refint\matrix.dll
+C:\projects\C#\overloading the matrix indexing operator cs\obj\Debug\net7.0\matrix.pdb
+C:\projects\C#\overloading the matrix indexing operator cs\obj\Debug\net7.0\matrix.genruntimeconfig.cache
+C:\projects\C#\overloading the matrix indexing operator cs\obj\Debug\net7.0\ref\matrix.dll
